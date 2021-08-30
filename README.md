@@ -32,7 +32,7 @@ Left to do:
  - [x] Make the upload function work
  - [x] Make the download function work
  - [x] make the list function work
- - [ ] Add auth via PKI
+ - [ ] Add auth via PKI and secure CORS if neccesary
  - [ ] Make the back-end make more sense for the front-end
  - [ ] Add user-files relationship
  - [ ] manage files
