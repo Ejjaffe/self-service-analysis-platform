@@ -5,6 +5,10 @@ VueJS (2) / Python (3.6 +, FastAPI)
 
 At the moment, the web app looks like this. It gets the job done for now.
 
+
+
+https://user-images.githubusercontent.com/38086802/131314392-69bc238d-23fa-4332-a16e-21d6ae12682f.mp4
+
 ![Web App](img/webapp_img.PNG)
 
 And the `/listuploadedfiles/` command returns something like this (varies depending on your files):
