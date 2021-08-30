@@ -4,7 +4,7 @@ sketches related to a standalone self-service data analysis platform.
 VueJS (2) / Python (3.6 +) 
 
 At the moment, the web app looks like this:
-![Web App](img/webapp_img.png)
+![Web App](img/webapp_img.PNG)
 
 And the `/listuploadedfiles/` command returns something like this (varies depending on your files):
 ```
