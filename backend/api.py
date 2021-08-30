@@ -60,10 +60,10 @@ async def create_upload_file(file: UploadFile = File(default="")):
         shutil.copyfileobj(file.file, buffer)
     
 @app.get("/downloadfile/{filename}")
-"""
-Download a file by it's filename
-"""
 async def download_file(filename:str):
+    """
+    Download a file by it's filename
+    """
     file_path = os.path.join(DATA_DIR_NAME, filename)
     
     return FileResponse(path=file_path, filename=filename, media_type='text/csv')
