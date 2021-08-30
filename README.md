@@ -34,6 +34,7 @@ Left to do:
  - [x] make the list function work
  - [ ] Add auth via PKI
  - [ ] Add user-files relationship
+ - [ ] manage files
  
  - [ ] Make the actual task run request interface
  - [ ] Add python code to do tasks
