@@ -33,6 +33,7 @@ Left to do:
  - [x] Make the download function work
  - [x] make the list function work
  - [ ] Add auth via PKI
+ - [ ] Make the back-end make more sense for the front-end
  - [ ] Add user-files relationship
  - [ ] manage files
  
