@@ -1,7 +1,7 @@
 # self-service-analysis-platform
 sketches related to a standalone self-service data analysis platform.
 
-VueJS (2) / Python (3.6 +) 
+VueJS (2) / Python (3.6 +, FastAPI) 
 
 At the moment, the web app looks like this. It gets the job done for now.
 
