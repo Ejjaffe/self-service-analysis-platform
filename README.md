@@ -28,6 +28,9 @@ And the `/listuploadedfiles/` command returns something like this (varies depend
 ]}
 ```
 
+[This codepen](https://codepen.io/ejaffe/pen/YzQXare) will not work without downloading and standing up api.py on your local machine. But you can try it out for yourself if you do.
+
+
 Left to do:
  - [x] Make the upload function work
  - [x] Make the download function work
