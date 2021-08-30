@@ -4,6 +4,7 @@ sketches related to a standalone self-service data analysis platform.
 VueJS (2) / Python (3.6 +) 
 
 At the moment, the web app looks like this:
+
 ![Web App](img/webapp_img.PNG)
 
 And the `/listuploadedfiles/` command returns something like this (varies depending on your files):
@@ -26,3 +27,14 @@ And the `/listuploadedfiles/` command returns something like this (varies depend
   }
 ]}
 ```
+
+Left to do:
+ - [x] Make the upload function work
+ - [x] Make the download function work
+ - [x] make the list function work
+ - [ ] Add auth via PKI
+ - [ ] Add user-files relationship
+ 
+ - [ ] Make the actual task run request interface
+ - [ ] Add python code to do tasks
+ - [ ] Robust activity logging
